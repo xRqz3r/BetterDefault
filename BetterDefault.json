@@ -1,9 +1,10 @@
 {
     "manifest": {
-        "name": "Default2",
+        "name": "BetterDefault",
         "version": "1.0.0",
         "license": "MIT",
         "author": "xRqz3r"
+        "updater": "https://raw.githubusercontent.com/xRqz3r/BetterDefault/main/Default2.json" 
     },
     "background": {},
     "fonts": {
