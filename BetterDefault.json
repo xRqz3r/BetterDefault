@@ -4,6 +4,7 @@
         "name": "BetterDefault",
         "version": "1.0.0",
         "license": "MIT"
+        "updater": "https:\/\/raw.githubusercontent.com\/xRqz3r\/BetterDefault\/main\/BetterDefault.json"
     },
     "background": {},
     "fonts": {
