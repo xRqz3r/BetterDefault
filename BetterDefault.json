@@ -2,8 +2,8 @@
     "manifest": {
         "author": "xRqz3r",
         "name": "BetterDefault",
-        "version": "1.0.2",
-        "license": "MIT"
+        "version": "1.1.0",
+        "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/xRqz3r\/BetterDefault\/main\/BetterDefault.json"
     },
     "background": {},
